@@ -22,7 +22,7 @@ A simple and efficient Python tool to copy files from your PC to a USB drive, au
 Install dependencies:
 
 ```sh
-pip install pywin32 tqdm
+pip install -r requirements.txt
 ```
 
 ## Usage
